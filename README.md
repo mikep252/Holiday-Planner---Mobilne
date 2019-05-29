@@ -36,3 +36,6 @@ firebase deploy
 ``` bash
 npm run build && firebase deploy
 ```
+
+Andrzej S : SKYSCANNER KEY:
+  ce1e75d28fmsh959959b48e6a68fp15a406jsnd0d4206101bc
